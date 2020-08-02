@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/zll/eclipse/commons-csv-1.8-bin/commons-csv-1.8/commons-csv-1.8.jar"/>
+	<classpathentry kind="output" path="out/production/MYFJSP"/>
+</classpath>
