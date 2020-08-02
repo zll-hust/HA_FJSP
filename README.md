@@ -1,4 +1,4 @@
-# HAForFJSP
+# HA For FJSP
 
 论文复现：An effective hybrid genetic algorithm and tabu search for flexible job shop scheduling problem
 
